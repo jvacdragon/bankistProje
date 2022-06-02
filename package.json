@@ -1,0 +1,15 @@
+{
+  "name": "bankistproje",
+  "version": "1.0.0",
+  "description": "simulating a bank",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.html --dist-dir ./dist"
+  },
+  "author": "joao",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.6.0"
+  }
+}
