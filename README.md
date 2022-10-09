@@ -9,3 +9,4 @@ DATA:
 * Respectives PIN accounts: 1111; 2222; 33333; 4444
 
 Link to the site
+https://bankist-proje.netlify.app/
